@@ -1,6 +1,3 @@
-# Dotfiles neomorphism
-At the end of 2022, I created this rice for my Debian i3-gaps laptop. I hope you will enjoy those dots !
-
 ## Installation
 
 Most of these directories can just be copied in your `$HOME/.config` directory, but you should read the
@@ -19,7 +16,3 @@ readme I made for each directory to get more informations.
 ![nvim and rofi](screenshots/unixporn2.png)  
 ![wallpaper](screenshots/unixporn3.png)  
 ![chromium, tabliss and hello! engine](screenshots/unixporn4.png)  
-
-## License
-
-You can do whatever you want with these dots. Copy them, edit them, it's FOSS, relax !
